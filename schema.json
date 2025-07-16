@@ -1,0 +1,10 @@
+{
+  "vehicle_id": "string",
+  "timestamp": "string",
+  "speed_kmph": "float",
+  "engine_temp_c": "float",
+  "battery_voltage": "float",
+  "oil_pressure": "float",
+  "gps_lat": "float",
+  "gps_long": "float"
+}
